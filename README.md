@@ -1,4 +1,4 @@
-# International Telephone Input for Angular (NgxIntlTelInput)
+# FORK for Angular 16: International Telephone Input for Angular (NgxIntlTelInput)
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
 
