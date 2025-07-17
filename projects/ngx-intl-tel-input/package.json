@@ -1,6 +1,6 @@
 {
 	"name": "untold-ngx-intl-tel-input",
-	"version": "17.0.1",
+	"version": "19.0.0",
 	"peerDependencies": {
 		"@angular/common": ">= 16.x",
 		"@angular/core": ">= 16.x",
@@ -32,6 +32,11 @@
     	"angular 15",
     	"angular 16",
     	"angular 17",
+    "angular 18",
+    "angular 19",
+    "angular 20",
+    "angular 21",
+    "angular 22",
 		"intl-tel-input",
 		"phone number",
 		"validation"
